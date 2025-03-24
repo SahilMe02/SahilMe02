@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SahilMe02
-- 👀 I’m interested in ... CODING
-- 🌱 I’m currently learning ... PHP, PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sahil Mehta
+- 👀 I’m interested in ... Data Science
 - 📫 How to reach me ... sahilpmehta02@gmail.com
 
 <!---
